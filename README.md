@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @stemsteamcoder
+- 👋 Hi, I’m @stemsteamcoder, I also go by Scheming Witch
+- Pronouns: They/she
 - 👀 I’m interested in Godot gamedev at the moment
 
 - 🌱 itch.io page:
